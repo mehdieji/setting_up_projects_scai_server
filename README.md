@@ -1,3 +1,4 @@
+```bash
 # ----------------------------------------
 # SENSOR DATA PARSING - FULL SETUP SCRIPT
 # ----------------------------------------
@@ -75,3 +76,4 @@ python -m parselib.raw2interim
 jupyter notebook --ip=127.0.0.1 --port=8061 --no-browser
 # → Copy one of the links shown and paste it into your browser.
 # → Switch the kernel to "sensor_data_parse_venv" before running notebooks.
+```
